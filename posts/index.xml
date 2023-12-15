@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Random Blog Post</title>
+    <link>https://naaash.github.io/posts/</link>
+    <description>Recent content in Posts on Random Blog Post</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2023 12:33:31 +0530</lastBuildDate>
+    <atom:link href="https://naaash.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adobe Vip</title>
+      <link>https://naaash.github.io/posts/adobevip/</link>
+      <pubDate>Fri, 15 Dec 2023 12:33:31 +0530</pubDate>
+      <guid>https://naaash.github.io/posts/adobevip/</guid>
+      <description> TEST Adobe Blog # &amp;lt;img src=x onerror=alert()&amp;gt; </description>
+    </item>
+  </channel>
+</rss>
